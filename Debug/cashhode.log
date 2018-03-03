@@ -1,0 +1,4 @@
+﻿  World.cpp
+c:\users\model\documents\visual studio 2015\projects\cashhode\cashhode\world.cpp(126): warning C4018: '<': signed/unsigned mismatch
+  cashhode.vcxproj -> C:\Users\Model\Documents\Visual Studio 2015\Projects\cashhode\Debug\cashhode.exe
+  cashhode.vcxproj -> C:\Users\Model\Documents\Visual Studio 2015\Projects\cashhode\Debug\cashhode.pdb (Full PDB)
